@@ -13,3 +13,6 @@ If it is helpful for your work, please cite this paper:
   keywords={Semantics;Training;Remote sensing;Image recognition;Task analysis;Scene classification;Aerospace electronics;Multimodal learning;remote sensing image scene classification;zero-shot learning},
   doi={10.1109/JSTARS.2024.3410995}}
 ``` 
+# ZSL
+![image](URL title)
+# ZSRSSC
