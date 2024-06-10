@@ -48,25 +48,27 @@ Latent Embeddings for Zero-Shot Classification(CVPR2016) [pdf](https://openacces
 
 Semantics-Preserving Locality Embedding for Zero-Shot Learning [pdf](https://www.researchgate.net/publication/332817872_Semantics-Preserving_Locality_Embedding_for_Zero-Shot_Learning)
 ### Visual space
- [pdf]()
- [pdf]()
- [pdf]()
- [pdf]()
- [pdf]()
- [pdf]()
- 
+Learning a Deep Embedding Model for Zero-Shot Learning(CVPR2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_a_Deep_CVPR_2017_paper.pdf)
+
+Learning to Compare: Relation Network for Few-Shot Learning(CVPR2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)
 ## Generative Network <a name="gen" style="display: none;"></a>
-[pdf]()
-[pdf]()
-[pdf]()
-[pdf]()
+Feature Generating Networks for Zero-Shot Learning(CVPR2018) [pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_Feature_Generating_Networks_CVPR_2018_paper.pdf)
 
+Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders(CVPR2019) [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Schonfeld_Generalized_Zero-_and_Few-Shot_Learning_via_Aligned_Variational_Autoencoders_CVPR_2019_paper.pdf)
 
+Generative Dual Adversarial Network for Generalized Zero-Shot Learning(CVPR2019) [pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Huang_Generative_Dual_Adversarial_Network_for_Generalized_Zero-Shot_Learning_CVPR_2019_paper.pdf)
+
+Creativity Inspired Zero-Shot Learning(ICCV2019) [pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Elhoseiny_Creativity_Inspired_Zero-Shot_Learning_ICCV_2019_paper.pdf)
+
+Zero-Shot Learning With Attentive Region Embedding and Enhanced Semantics [pdf](https://ieeexplore.ieee.org/document/9881214)
 ## Large-scale Pre-trained Models <a name="lpm" style="display: none;"></a>
- [pdf]()
- [pdf]()
- [pdf]()
- [pdf]()
+Learning to Prompt for Vision-Language Models [pdf](https://arxiv.org/abs/2109.01134)
+
+Conditional Prompt Learning for Vision-Language Models(CVPR2022) [pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)
+
+Robust Fine-Tuning of Zero-Shot Models(CVPR2022) [pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Wortsman_Robust_Fine-Tuning_of_Zero-Shot_Models_CVPR_2022_paper.pdf)
+
+Combined scaling for zero-shot transfer learning [pdf](https://arxiv.org/abs/2111.10050)
 # ZSRSSC
  [pdf]()
  [pdf]()
