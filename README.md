@@ -88,4 +88,4 @@ Mining Contrastive Relations Between Cross-Modal Features for Zero-Shot Remote S
 
 Zero-Shot Remote Sensing Scene Classification Method Based on Local-Global Feature Fusion and Weight Mapping Loss [pdf](https://ieeexplore.ieee.org/document/10368306)
 
-Self-supervised embedding for generalized zero-shot learning in remote sensing scene classification [pdf]((https://www.semanticscholar.org/paper/Self-supervised-embedding-for-generalized-zero-shot-Damalla-Datla/8cd3ba24ec67e36ee5168a2ac646f2467d99b4a1)
+Self-supervised embedding for generalized zero-shot learning in remote sensing scene classification [pdf](https://www.semanticscholar.org/paper/Self-supervised-embedding-for-generalized-zero-shot-Damalla-Datla/8cd3ba24ec67e36ee5168a2ac646f2467d99b4a1)
