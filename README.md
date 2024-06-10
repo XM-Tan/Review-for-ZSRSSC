@@ -14,5 +14,5 @@ If it is helpful for your work, please cite this paper:
   doi={10.1109/JSTARS.2024.3410995}}
 ``` 
 # ZSL
-![image](URL title)
+![image](fig2.tif)
 # ZSRSSC
