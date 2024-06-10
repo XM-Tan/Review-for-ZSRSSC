@@ -24,6 +24,7 @@ If it is helpful for your work, please cite this paper:
   - [Large-scale Pre-trained Models](#lpm)
 - TODO : collect more related papers. Contributions are welcome.
 ## Attribute Learning <a name="att" style="display: none;"></a>
+Review of Zero-Shot Remote Sensing Image Scene Classification [pdf](https://ieeexplore.ieee.org/document/10552052)
 
 ## Cross Modal Transfer <a name="cmt" style="display: none;"></a>
 
