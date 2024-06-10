@@ -15,7 +15,9 @@ If it is helpful for your work, please cite this paper:
 ``` 
 # ZSL
 ![image](fig2.tif)
+- [ZSL papers](#ZSL)
+  - []
+- TODO : collect more related papers. Contributions are welcome.
 ## 
 
-- TODO : collect more related papers. Contributions are welcome.
 # ZSRSSC
