@@ -29,6 +29,7 @@ The paradigm of ZSRSSC is below:
 Learning to detect unseen object classes by between-class attribute transfer [pdf](https://ieeexplore.ieee.org/document/5206594)
 
 ## Cross Modal Transfer <a name="cmt" style="display: none;"></a>
+### Semantic space
 Zero-Shot Learning Through Cross-Modal Transfer [pdf](https://arxiv.org/abs/1301.3666)
 
 DeViSE: A Deep Visual-Semantic Embedding Model [pdf](https://papers.nips.cc/paper_files/paper/2013/hash/7cce53cf90577442771720a370c3c723-Abstract.html) 
@@ -40,8 +41,21 @@ Zero-Shot Learning by Convex Combination of Semantic Embeddings [pdf](https://ar
 Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths(CVPR2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Zero-Shot_Recognition_Using_CVPR_2017_paper.pdf)
 
 Semantic Autoencoder for Zero-Shot Learning(CVPR2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf)
-## Generative Network <a name="gen" style="display: none;"></a>
+### Common space
 Learning Deep Representations of Fine-Grained Visual Descriptions(CVPR2016) [pdf](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)
+
+Latent Embeddings for Zero-Shot Classification(CVPR2016) [pdf](https://openaccess.thecvf.com/content_cvpr_2016/papers/Xian_Latent_Embeddings_for_CVPR_2016_paper.pdf)
+
+Semantics-Preserving Locality Embedding for Zero-Shot Learning [pdf](https://www.researchgate.net/publication/332817872_Semantics-Preserving_Locality_Embedding_for_Zero-Shot_Learning)
+### Visual space
+ [pdf]()
+ [pdf]()
+ [pdf]()
+ [pdf]()
+ [pdf]()
+ [pdf]()
+ 
+## Generative Network <a name="gen" style="display: none;"></a>
 [pdf]()
 [pdf]()
 [pdf]()
@@ -49,5 +63,12 @@ Learning Deep Representations of Fine-Grained Visual Descriptions(CVPR2016) [pdf
 
 
 ## Large-scale Pre-trained Models <a name="lpm" style="display: none;"></a>
-
+ [pdf]()
+ [pdf]()
+ [pdf]()
+ [pdf]()
 # ZSRSSC
+ [pdf]()
+ [pdf]()
+ [pdf]()
+ [pdf]()
