@@ -37,11 +37,11 @@ Label-Embedding for Attribute-Based Classification(CVPR2013) [pdf](https://opena
 
 Zero-Shot Learning by Convex Combination of Semantic Embeddings [pdf](https://arxiv.org/abs/1312.5650)
 
-Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Zero-Shot_Recognition_Using_CVPR_2017_paper.pdf)
+Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths(CVPR2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Zero-Shot_Recognition_Using_CVPR_2017_paper.pdf)
 
 Semantic Autoencoder for Zero-Shot Learning(CVPR2017) [pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf)
 ## Generative Network <a name="gen" style="display: none;"></a>
-[pdf]()
+Learning Deep Representations of Fine-Grained Visual Descriptions(CVPR2016) [pdf](https://openaccess.thecvf.com/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)
 [pdf]()
 [pdf]()
 [pdf]()
