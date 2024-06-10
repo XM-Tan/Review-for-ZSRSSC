@@ -26,7 +26,7 @@ The paradigm of ZSRSSC is below:
   - [Large-scale Pre-trained Models](#lpm)
 - TODO : collect more related papers. Contributions are welcome.
 ## Attribute Learning <a name="att" style="display: none;"></a>
-Review of Zero-Shot Remote Sensing Image Scene Classification [pdf](https://ieeexplore.ieee.org/document/10552052)
+Learning to detect unseen object classes by between-class attribute transfer [pdf](https://ieeexplore.ieee.org/document/5206594)
 
 ## Cross Modal Transfer <a name="cmt" style="display: none;"></a>
 
