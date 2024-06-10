@@ -17,13 +17,13 @@ If it is helpful for your work, please cite this paper:
 ![image](fig2.tif)
 - [ZSL papers](#ZSL)
   - [Attribute Learning](#Att-anchor)
-  - [Cross Modal Transfer](##Cross Modal Transfer)
+  - [Cross Modal Transfer](#cmt)
   - [Generative Network](##Generative Network)
   - [Large-scale Pre-trained Models](##Large-scale Pre-trained Models)
 - TODO : collect more related papers. Contributions are welcome.
 ## Attribute Learning {#Att-anchor}
 
-## Cross Modal Transfer
+## Cross Modal Transfer <a name="cmt" style="display: none;"></a>
 
 ## Generative Network
 
