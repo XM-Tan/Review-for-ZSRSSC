@@ -16,8 +16,17 @@ If it is helpful for your work, please cite this paper:
 # ZSL
 ![image](fig2.tif)
 - [ZSL papers](#ZSL)
-  - []
+  - [Attribute Learning](##Attribute Learning)
+  - [Cross Modal Transfer](##Cross Modal Transfer)
+  - [Generative Network](##Generative Network)
+  - [Large-scale Pre-trained Models](##Large-scale Pre-trained Models)
 - TODO : collect more related papers. Contributions are welcome.
-## 
+## Attribute Learning
+
+## Cross Modal Transfer
+
+## Generative Network
+
+## Large-scale Pre-trained Models
 
 # ZSRSSC
