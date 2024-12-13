@@ -1,4 +1,4 @@
-# This repo is built for the paper: Review of Zero-Shot Remote Sensing Image Scene Classification [paper](https://ieeexplore.ieee.org/document/10552052)
+# This repo is built for the paper: Review of Zero-Shot Remote Sensing Image Scene Classification [<a href="[https://ieeexplore.ieee.org/document/10699382](https://ieeexplore.ieee.org/document/10552052)">Paper</a>]
 # Citation
 If it is helpful for your work, please cite this paper:
 ``` 
